@@ -17,18 +17,7 @@ A modern, interactive analytics dashboard built with React, TypeScript, and Tail
 
 ## 🚀 Demo
 
-[Live Demo](https://your-demo-link.com) | [Video Walkthrough](https://your-video-link.com)
-
-## 📸 Screenshots
-
-### Dashboard Overview
-![Dashboard Overview](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=500&fit=crop&crop=entropy&auto=format&q=80)
-
-### Interactive Charts
-![Charts](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=500&fit=crop&crop=entropy&auto=format&q=80)
-
-### Guided Tour
-![Tour](https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&h=500&fit=crop&crop=entropy&auto=format&q=80)
+[Live Demo](https://create-walkthrough-g-lz80.bolt.host/)
 
 ## 🛠️ Tech Stack
 

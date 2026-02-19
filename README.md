@@ -52,8 +52,8 @@ A modern, interactive analytics dashboard built with React, TypeScript, and Tail
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/analytics-pro-dashboard.git
-   cd analytics-pro-dashboard
+   git clone https://github.com/nithinpjohn/Walk-through-Guide.git
+   cd Walk-through-Guide
    ```
 
 2. **Install dependencies**
@@ -78,7 +78,7 @@ A modern, interactive analytics dashboard built with React, TypeScript, and Tail
 ## 🏗️ Project Structure
 
 ```
-analytics-pro-dashboard/
+Walk-through-Guide/
 ├── public/
 │   └── vite.svg
 ├── src/
@@ -251,7 +251,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Nithin P John** - *Initial work* - [nithinpjohn](https://github.com/nithinpjohn)
 
 ## 🙏 Acknowledgments
 
@@ -266,17 +266,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help, please:
 
-- 📧 Email: support@analyticsproapp.com
-- 💬 Discord: [Join our community](https://discord.gg/your-server)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/analytics-pro-dashboard/issues)
+- 📧 Email: nithin@evalogical.com
+- 🌐 Website: [www.evalogical.com](https://www.evalogical.com)
+- 🐛 Issues: [GitHub Issues](https://github.com/nithinpjohn/Walk-through-Guide/issues)
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the Analytics Pro Team</p>
+  <p>Made with ❤️ by Evalogical</p>
   <p>
-    <a href="https://github.com/yourusername/analytics-pro-dashboard">⭐ Star this repo</a> •
-    <a href="https://github.com/yourusername/analytics-pro-dashboard/issues">🐛 Report Bug</a> •
-    <a href="https://github.com/yourusername/analytics-pro-dashboard/issues">✨ Request Feature</a>
+    <a href="https://github.com/nithinpjohn/Walk-through-Guide">⭐ Star this repo</a> •
+    <a href="https://github.com/nithinpjohn/Walk-through-Guide/issues">🐛 Report Bug</a> •
+    <a href="https://github.com/nithinpjohn/Walk-through-Guide/issues">✨ Request Feature</a>
   </p>
 </div>
